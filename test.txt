@@ -3,4 +3,5 @@ ini adalah repo untuk project pengelolaan kos azelia yang dimana ada 3 aktor dal
 ohh  gini cara main github
 nininiiin0988888
 
-di eps 3 belajar branch dan merg
+di eps 3 belajar branch dan merge
+dan ini saatnya bikin branch
